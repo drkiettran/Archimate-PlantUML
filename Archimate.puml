@@ -2,10 +2,10 @@
 
 ' Version
 '######################################
-!function ArchimateVersion()
-  !$archimateVersion  =  "2.0.0beta1"
-  !return $archimateVersion
-!endfunction
+'!function ArchimateVersion()
+'  !$archimateVersion  =  "2.0.0beta1"
+'  !return $archimateVersion
+'!endfunction
 
 !procedure ArchimateVersionDetails()
   rectangle ArchimateVersionDetailsArea <<legendArea>> [
